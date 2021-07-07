@@ -1,9 +1,9 @@
 # KadExtras
-Coucou ceci est un petit ressources pack fait par (moi) NathKaden#4405;
-Voici une liste des changements! :3
-Version: 1.17
-Version du pack: 1.7
-1.1:
+Coucou ceci est un petit ressources pack fait par (moi) NathKaden#4405;####
+Voici une liste des changements! :3####
+Version: 1.17####
+Version du pack: 1.7####
+1.1:####
 	- bordures de minerais
 	- fils visibles (bleu clair)
 	- bouclier baissé
