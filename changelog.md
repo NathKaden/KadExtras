@@ -1,5 +1,5 @@
 # KadExtras    
-Coucou ceci est un petit ressources pack fait par (moi) NathKaden#4405;    
+Coucou ceci est un petit ressources pack fait par (moi) NathKaden#0001;    
 Voici une liste des changements! :3    
 Version: 1.17    
 Version du pack: 1.7    
@@ -71,3 +71,11 @@ Version du pack: 1.7
 	- gui interactionsd sociales    
 	- gui changement de gamemode    
 	- fix gui créatif    
+1.7.2:    
+	- fix bug graphique    
+	- modifications de textes menu    
+	- changement bloc de fond menu 1.17    
+	- fix gui chang. gamemode    
+	- fix gui advancements    
+	- fix cœurs glacés    
+	- Enma    
