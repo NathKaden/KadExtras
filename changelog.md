@@ -94,3 +94,24 @@ Version du pack: 1.7.2
 	- fix gui advancements    
 	- fix cœurs glacés    
 	- Enma    
+————————————————————
+1.7.3:
+	- écran de gel qui gène moins
+	- lunes insomniac
+	- vert enlevé spyglass
+	- viseur longue-vue opacité réduite
+	- vert enlevé bois (stripped spruce et jungle)
+	- vert coffre enlevé
+	- texture de fer et or enlevé
+	- jaune amethyst shard
+	- glow berries rename avec un gigot
+	- jaune andesite enlevé(&polie)
+	- ajout de quelque textes (tjrs +)
+————————————————————
+1.7.4:
+	- Fix furnace /smoker/blast_furnace
+	- Frip' ig (persian gris)
+	- Changement couleur chargement
+	- Pastèque -> melon (bloc; tranche; graine)
+	- serpe Sly
+	- HUD Bleu (Hiver)
