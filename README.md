@@ -1,6 +1,8 @@
 # KadExtras
-Salut, ceci est un petit ressource pack fait par (moi) NathKaden;
-Le discord: discord.gg/YtCCVqA
+### 🖋️  Bienvenue sur la page de mon ressource pack !
+Petit ressource pack fait par (moi) NathKaden;  
 
-Allez-donc voir les versions du pack!
-**https://github.com/NathKaden/KadExtras/releases**
+### 🔗 [Le discord](https://discord.gg/YtCCVqA)
+
+## Allez-donc voir les versions du pack!
+### 🔗 **[Accéder aux versions](https://github.com/NathKaden/KadExtras/releases)**
