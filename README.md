@@ -1,4 +1,5 @@
-# KadExtras
+# KadExtras Minecraft Ressource Pack
+>`!§6§lKad§cExtras§8`
 ### 🖋️  Bienvenue sur la page de mon ressource pack !
 Petit ressource pack fait par (moi) NathKaden;  
 
